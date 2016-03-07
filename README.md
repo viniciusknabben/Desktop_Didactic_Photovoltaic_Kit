@@ -1,5 +1,5 @@
 # Desktop_Photovoltaic_Didactic_Kit
 
-User Intrface developed for the Photovoltaic Didactic Kit
+This repository contains the codes of an user intrface to a Photovoltaic Didactic Kit developed as a graduation work.
 
-Qt version: 5.4.2
+Developed on Qt version 5.4.2
